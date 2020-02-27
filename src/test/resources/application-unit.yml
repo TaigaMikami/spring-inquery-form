@@ -1,0 +1,8 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost/testdb
+    username: root
+    password:
+logging:
+  level:
+    root: warn
